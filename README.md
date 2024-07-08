@@ -21,3 +21,9 @@ Information that a Vinyl is about to be removed (before it is fully removed) is 
 - the Observer design pattern;
 - the State design pattern for the different states of a Vinyl;
 - threads for the simulation and still be able to manually use the system (in the GUI)
+
+#### Class Diagram
+![image](https://github.com/betelgeuseBet/Single-User-Vinyl-Lending-Library_Robot-Simulated/assets/151634373/fa17e59e-fd34-4295-867d-122ffa234d10)
+
+#### State Machine Diagram
+![image](https://github.com/betelgeuseBet/Single-User-Vinyl-Lending-Library_Robot-Simulated/assets/151634373/12b83ee7-596f-484e-84f0-a495bc61b6c5)
