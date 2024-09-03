@@ -30,6 +30,6 @@ Information that a Vinyl is about to be removed (before it is fully removed) is 
 
 #### The application:
 ![image](https://github.com/user-attachments/assets/1ca4bec8-11ad-4c94-847e-fa2f466e837e)
+![image](https://github.com/user-attachments/assets/26ec3dd6-bbf0-48dc-9745-707dc4a63cd6)
 ![image](https://github.com/user-attachments/assets/7efdc465-0e64-442a-8061-42db42e9e259)
-![image](https://github.com/user-attachments/assets/c8c6288e-87b1-4f9b-b55c-9201c28262ac)
 
