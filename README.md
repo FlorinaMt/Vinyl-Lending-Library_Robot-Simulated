@@ -27,3 +27,9 @@ Information that a Vinyl is about to be removed (before it is fully removed) is 
 
 #### State Machine Diagram
 ![image](https://github.com/betelgeuseBet/Single-User-Vinyl-Lending-Library_Robot-Simulated/assets/151634373/12b83ee7-596f-484e-84f0-a495bc61b6c5)
+
+#### The application:
+![image](https://github.com/user-attachments/assets/1ca4bec8-11ad-4c94-847e-fa2f466e837e)
+![image](https://github.com/user-attachments/assets/7efdc465-0e64-442a-8061-42db42e9e259)
+![Uploading image.png…]()
+
